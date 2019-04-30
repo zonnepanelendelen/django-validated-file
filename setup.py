@@ -19,7 +19,6 @@ setup(
     },
     packages = find_packages(),
     install_requires=[
-        'distribute',
         'python-magic >= 0.4.2',
     ],
     setup_requires = [
