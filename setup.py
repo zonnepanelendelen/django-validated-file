@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'django-validated-file',
-    version = ":versiontools:validatedfile:",
+    version = "2.0.1",
     description = "This Django app adds a new field type, ValidatedFileField, that add the capability of checking the document size and types the user may send.",
     long_description = "",
     keywords = 'django, filefield, validation',
